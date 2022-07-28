@@ -1,0 +1,445 @@
+,month_year,work_undertaken,age_banding,Sex,Region
+0,2018-03,Repair Prosthesis,50-64,M,Janjanbureh
+1,2018-03,Repair Prosthesis,25-49,M,Kanifing
+2,2018-03,New Prosthesis,25-49,M,Brikama
+3,2018-03,New Prosthesis,50-64,F,Banjul
+4,2018-03,New Prosthesis,25-49,M,Brikama
+5,2018-03,Repair Prosthesis,25-49,F,Brikama
+6,2018-03,Repair Prosthesis,25-49,F,Brikama
+7,2018-03,New Prosthesis,25-49,F,Brikama
+8,2018-03,Repair Prosthesis,50-64,M,Kanifing
+9,2018-03,Repair Prosthesis,50-64,M,Kanifing
+10,2018-03,New Prosthesis,25-49,F,Kanifing
+11,2018-03,New Prosthesis,50-64,M,Brikama
+12,2018-03,New Prosthesis,65+,F,Mansakonko
+13,2018-03,Repair Prosthesis,14-24,M,Brikama
+14,2018-03,Repair Prosthesis,25-49,M,Brikama
+15,2018-03,New Prosthesis,25-49,M,North Senegal
+16,2018-03,Repair Prosthesis,14-24,M,Kerewan
+17,2018-04,Repair Prosthesis,65+,F,Brikama
+18,2018-04,Repair Prosthesis,50-64,M,Brikama
+19,2018-04,New Prosthesis,25-49,M,Basse
+20,2018-04,Repair Prosthesis,65+,F,Brikama
+21,2018-04,New Prosthesis,50-64,F,Kanifing
+22,2018-04,Repair Prosthesis,50-64,M,Basse
+23,2018-04,New Prosthesis,25-49,F,Brikama
+24,2018-04,New Prosthesis,50-64,M,Janjanbureh
+25,2018-04,New Prosthesis,50-64,F,Brikama
+26,2018-04,Repair Prosthesis,25-49,M,Brikama
+27,2018-04,New Prosthesis,14-24,F,Brikama
+28,2018-04,Repair Prosthesis,65+,F,Kerewan
+29,2018-05,Repair Prosthesis,Not Known,F,Brikama
+30,2018-05,New Prosthesis,25-49,M,Brikama
+31,2018-05,Repair Prosthesis,25-49,F,Brikama
+32,2018-05,Repair Prosthesis,25-49,M,Brikama
+33,2018-05,New Prosthesis,25-49,F,Brikama
+34,2018-05,Repair Prosthesis,50-64,F,Brikama
+35,2018-05,Repair Prosthesis,50-64,M,Brikama
+36,2018-06,New Prosthesis,14-24,M,Kanifing
+37,2018-06,New Prosthesis,50-64,M,Kanifing
+38,2018-06,New Prosthesis,65+,M,Brikama
+39,2018-07,Repair Prosthesis,25-49,M,Basse
+40,2018-07,Repair Prosthesis,25-49,M,Kerewan
+41,2018-07,New Prosthesis,25-49,F,Brikama
+42,2018-07,Repair Prosthesis,14-24,F,Brikama
+43,2018-07,New Prosthesis,50-64,M,Brikama
+44,2018-07,New Prosthesis,25-49,F,Brikama
+45,2018-07,Repair Prosthesis,14-24,M,Kanifing
+46,2018-07,Repair Prosthesis,14-24,F,Brikama
+47,2018-07,New Prosthesis,5-14,F,Kanifing
+48,2018-08,Repair Prosthesis,65+,F,Kanifing
+49,2018-09,Repair Prosthesis,50-64,F,Not Known
+50,2018-09,Prosthesis Adjustment,25-49,F,Brikama
+51,2018-09,New Prosthesis,25-49,F,Kanifing
+52,2018-09,New Prosthesis,25-49,M,North Senegal
+53,2018-09,Repair Prosthesis,65+,M,Kanifing
+54,2018-09,Repair Prosthesis,25-49,M,Kerewan
+55,2018-09,Repair Prosthesis,14-24,F,Brikama
+56,2018-09,New Prosthesis,25-49,M,Janjanbureh
+57,2018-09,Repair Prosthesis,25-49,M,Brikama
+58,2018-09,New Prosthesis,25-49,M,Janjanbureh
+59,2018-09,New Prosthesis,25-49,M,Kanifing
+60,2018-09,New Prosthesis,25-49,F,Kanifing
+61,2018-09,New Prosthesis,14-24,F,Brikama
+62,2018-09,New Prosthesis,50-64,M,Brikama
+63,2018-10,Repair Prosthesis,50-64,M,Kerewan
+64,2018-10,New Prosthesis,14-24,F,Brikama
+65,2018-11,Repair Prosthesis,25-49,M,Brikama
+66,2018-11,New Prosthesis,50-64,M,Kerewan
+67,2018-11,Repair Prosthesis,50-64,M,Brikama
+68,2018-11,New Prosthesis,50-64,M,Mansakonko
+69,2018-11,New Prosthesis,50-64,M,Basse
+70,2018-11,New Prosthesis,50-64,M,Kerewan
+71,2018-11,New Prosthesis,50-64,F,Brikama
+72,2018-11,Repair Prosthesis,25-49,F,Brikama
+73,2018-11,Repair Prosthesis,Not Known,F,Brikama
+74,2018-11,Repair Prosthesis,25-49,M,Brikama
+75,2018-11,Repair Prosthesis,50-64,F,Brikama
+76,2018-11,New Prosthesis,25-49,M,Brikama
+77,2018-11,Repair Prosthesis,25-49,F,Brikama
+78,2018-12,Repair Prosthesis,50-64,M,North Senegal
+79,2018-12,New Prosthesis,25-49,M,Brikama
+80,2018-12,New Prosthesis,25-49,M,North Senegal
+81,2018-12,New Prosthesis,Not Known,M,Basse
+82,2018-12,New Prosthesis,14-24,M,Brikama
+83,2018-12,New Prosthesis,25-49,F,Brikama
+84,2018-12,Repair Prosthesis,50-64,F,Not Known
+85,2018-12,Repair Prosthesis,25-49,M,Banjul
+86,2018-12,Repair Prosthesis,25-49,F,Brikama
+87,2018-12,Repair Prosthesis,25-49,F,Brikama
+88,2018-12,Repair Prosthesis,50-64,M,Brikama
+89,2018-12,New Prosthesis,50-64,M,Brikama
+90,2018-12,Repair Prosthesis,50-64,M,Kerewan
+91,2018-12,Repair Prosthesis,Not Known,F,Brikama
+92,2018-12,New Prosthesis,50-64,M,Brikama
+93,2018-12,New Prosthesis,25-49,M,Brikama
+94,2018-12,New Prosthesis,14-24,M,Kanifing
+95,2018-12,New Prosthesis,Not Known,M,Janjanbureh
+96,2018-12,Repair Prosthesis,50-64,M,Brikama
+97,2018-12,New Prosthesis,25-49,F,Kanifing
+98,2019-01,Repair Prosthesis,25-49,F,Janjanbureh
+99,2019-01,New Prosthesis,50-64,M,Brikama
+100,2019-01,Repair Prosthesis,50-64,M,Brikama
+101,2019-01,Prosthesis Review/Assessment,25-49,M,Kanifing
+102,2019-01,Repair Prosthesis,50-64,F,Banjul
+103,2019-01,Repair Prosthesis,50-64,M,Kerewan
+104,2019-01,New Prosthesis,25-49,F,Brikama
+105,2019-01,Repair Prosthesis,25-49,M,Kanifing
+106,2019-01,New Prosthesis,25-49,F,Not Known
+107,2019-01,New Prosthesis,50-64,M,Kanifing
+108,2019-01,Prosthesis Adjustment,25-49,M,Kanifing
+109,2019-01,Repair Prosthesis,25-49,F,Brikama
+110,2019-01,New Prosthesis,50-64,F,Janjanbureh
+111,2019-01,New Prosthesis,5-14,M,Brikama
+112,2019-02,Repair Prosthesis,14-24,M,Brikama
+113,2019-02,Repair Prosthesis,14-24,M,North Senegal
+114,2019-02,New Prosthesis,50-64,M,Basse
+115,2019-02,New Prosthesis,14-24,F,South Senegal
+116,2019-02,New Prosthesis,14-24,M,Brikama
+117,2019-02,Repair Prosthesis,50-64,M,Kanifing
+118,2019-03,New Prosthesis,50-64,M,Kerewan
+119,2019-03,Repair Prosthesis,50-64,M,Brikama
+120,2019-03,New Prosthesis,50-64,M,Brikama
+121,2019-03,New Prosthesis,65+,M,Kanifing
+122,2019-03,New Prosthesis,14-24,M,Janjanbureh
+123,2019-03,Repair Prosthesis,14-24,M,Brikama
+124,2019-04,New Prosthesis,50-64,F,Not Known
+125,2019-04,Repair Prosthesis,50-64,F,North Senegal
+126,2019-04,New Prosthesis,65+,M,Kerewan
+127,2019-04,New Prosthesis,65+,F,Kanifing
+128,2019-04,New Prosthesis,50-64,F,Brikama
+129,2019-04,Repair Prosthesis,65+,F,Kerewan
+130,2019-04,New Prosthesis,Not Known,M,Brikama
+131,2019-04,Repair Prosthesis,14-24,M,Brikama
+132,2019-04,New Prosthesis,50-64,M,Brikama
+133,2019-05,Repair Prosthesis,25-49,M,Brikama
+134,2019-05,Repair Prosthesis,25-49,M,Brikama
+135,2019-05,Repair Prosthesis,Not Known,M,Brikama
+136,2019-05,Repair Prosthesis,Not Known,M,Mansakonko
+137,2019-05,Repair Prosthesis,50-64,F,Kanifing
+138,2019-05,New Prosthesis,14-24,F,Basse
+139,2019-05,Repair Prosthesis,25-49,F,Brikama
+140,2019-05,Repair Prosthesis,14-24,M,Brikama
+141,2019-05,Repair Prosthesis,Not Known,F,Kanifing
+142,2019-05,Repair Prosthesis,14-24,M,Brikama
+143,2019-05,New Prosthesis,50-64,M,Kanifing
+144,2019-05,New Prosthesis,50-64,M,Kanifing
+145,2019-05,New Prosthesis,Under 5,M,Kanifing
+146,2019-06,Repair Prosthesis,50-64,F,Banjul
+147,2019-06,New Prosthesis,5-14,M,Basse
+148,2019-06,New Prosthesis,5-14,M,Not Known
+149,2019-06,New Prosthesis,25-49,F,Brikama
+150,2019-06,Repair Prosthesis,65+,F,Brikama
+151,2019-06,Repair Prosthesis,50-64,M,Kerewan
+152,2019-06,Repair Prosthesis,50-64,F,Brikama
+153,2019-06,Repair Prosthesis,25-49,M,Brikama
+154,2019-07,New Prosthesis,25-49,M,Kerewan
+155,2019-07,New Prosthesis,5-14,M,Brikama
+156,2019-07,New Prosthesis,65+,M,Basse
+157,2019-07,New Prosthesis,50-64,M,Kanifing
+158,2019-07,New Prosthesis,25-49,M,Brikama
+159,2019-07,Repair Prosthesis,25-49,M,Brikama
+160,2019-07,Repair Prosthesis,25-49,M,Kanifing
+161,2019-07,Repair Prosthesis,25-49,M,Brikama
+162,2019-07,Repair Prosthesis,25-49,F,Brikama
+163,2019-07,New Prosthesis,50-64,M,Kanifing
+164,2019-07,Repair Prosthesis,50-64,M,Brikama
+165,2019-07,New Prosthesis,5-14,F,Brikama
+166,2019-07,Repair Prosthesis,50-64,M,Brikama
+167,2019-07,New Prosthesis,25-49,M,Brikama
+168,2019-07,New Prosthesis,5-14,F,Brikama
+169,2019-07,New Prosthesis,65+,M,Kanifing
+170,2019-07,Repair Prosthesis,Under 5,F,Brikama
+171,2019-07,New Prosthesis,50-64,M,Kanifing
+172,2019-07,New Prosthesis,65+,M,Janjanbureh
+173,2019-07,New Prosthesis,65+,M,Kanifing
+174,2019-07,New Prosthesis,25-49,M,Banjul
+175,2019-07,Repair Prosthesis,Not Known,M,Brikama
+176,2019-07,Repair Prosthesis,25-49,M,Brikama
+177,2019-07,Repair Prosthesis,25-49,M,Brikama
+178,2019-07,Repair Prosthesis,25-49,M,Basse
+179,2019-07,Repair Prosthesis,50-64,F,Brikama
+180,2019-08,Repair Prosthesis,25-49,M,Kerewan
+181,2019-08,Repair Prosthesis,25-49,F,Janjanbureh
+182,2019-08,Repair Prosthesis,Not Known,M,Brikama
+183,2019-08,Repair Prosthesis,50-64,F,Brikama
+184,2019-08,New Prosthesis,25-49,F,Brikama
+185,2019-08,Repair Prosthesis,Not Known,F,Brikama
+186,2019-08,Repair Prosthesis,25-49,F,Kanifing
+187,2019-08,Repair Prosthesis,50-64,F,Brikama
+188,2019-08,Repair Prosthesis,50-64,M,Kanifing
+189,2019-09,New Prosthesis,50-64,M,Kanifing
+190,2019-09,New Prosthesis,Not Known,F,Kanifing
+191,2019-09,New Prosthesis,50-64,M,Brikama
+192,2019-09,Repair Prosthesis,50-64,F,Brikama
+193,2019-09,New Prosthesis,50-64,M,Kanifing
+194,2019-09,New Prosthesis,25-49,M,Brikama
+195,2019-09,New Prosthesis,14-24,M,Brikama
+196,2019-09,New Prosthesis,Not Known,F,Janjanbureh
+197,2019-09,New Prosthesis,50-64,F,Kerewan
+198,2019-09,Repair Prosthesis,25-49,M,Brikama
+199,2019-09,Repair Prosthesis,25-49,M,Banjul
+200,2019-10,Repair Prosthesis,Not Known,F,Brikama
+201,2019-10,New Prosthesis,25-49,F,Kanifing
+202,2019-10,Repair Prosthesis,5-14,M,Brikama
+203,2019-10,Repair Prosthesis,50-64,F,Brikama
+204,2019-10,New Prosthesis,50-64,M,Brikama
+205,2019-10,Repair Prosthesis,25-49,M,Brikama
+206,2019-10,Prosthesis Review/Assessment,25-49,F,Kanifing
+207,2019-10,Repair Prosthesis,50-64,M,Brikama
+208,2019-10,Repair Prosthesis,25-49,M,Brikama
+209,2019-10,Repair Prosthesis,50-64,M,Brikama
+210,2019-11,Repair Prosthesis,50-64,F,Brikama
+211,2019-11,Repair Prosthesis,50-64,F,Janjanbureh
+212,2019-11,Repair Prosthesis,25-49,M,Kerewan
+213,2019-11,Repair Prosthesis,50-64,F,Brikama
+214,2019-11,Repair Prosthesis,50-64,F,Kanifing
+215,2019-11,Repair Prosthesis,50-64,F,Brikama
+216,2019-11,Repair Prosthesis,50-64,M,Brikama
+217,2019-11,New Prosthesis,Not Known,F,Brikama
+218,2019-11,New Prosthesis,50-64,M,Brikama
+219,2019-11,New Prosthesis,25-49,M,Brikama
+220,2019-12,New Prosthesis,25-49,F,Kanifing
+221,2019-12,New Prosthesis,Not Known,F,Kanifing
+222,2019-12,New Prosthesis,Not Known,M,Brikama
+223,2019-12,New Prosthesis,65+,M,Kanifing
+224,2019-12,New Prosthesis,25-49,F,Kanifing
+225,2019-12,Repair Prosthesis,50-64,M,Kerewan
+226,2019-12,Repair Prosthesis,25-49,M,Kanifing
+227,2019-12,Repair Prosthesis,50-64,F,Kanifing
+228,2019-12,Prosthesis Review/Assessment,50-64,M,Brikama
+229,2020-01,New Prosthesis,Not Known,M,Basse
+230,2020-01,New Prosthesis,Not Known,F,Kanifing
+231,2020-01,Repair Prosthesis,14-24,M,Brikama
+232,2020-01,Repair Prosthesis,Not Known,F,Brikama
+233,2020-01,Repair Prosthesis,Not Known,M,Brikama
+234,2020-02,New Prosthesis,25-49,F,Kanifing
+235,2020-02,New Prosthesis,5-14,M,Brikama
+236,2020-02,Repair Prosthesis,50-64,F,Brikama
+237,2020-02,New Prosthesis,25-49,M,Kanifing
+238,2020-02,New Prosthesis,25-49,M,Banjul
+239,2020-02,Repair Prosthesis,14-24,M,Kanifing
+240,2020-02,Repair Prosthesis,25-49,M,Brikama
+241,2020-02,Repair Prosthesis,Not Known,M,Brikama
+242,2020-02,Repair Prosthesis,25-49,M,Janjanbureh
+243,2020-02,Repair Prosthesis,50-64,M,Brikama
+244,2020-03,New Prosthesis,Not Known,M,Kanifing
+245,2020-03,Repair Prosthesis,50-64,F,Brikama
+246,2020-03,New Prosthesis,25-49,M,Brikama
+247,2020-03,New Prosthesis,25-49,M,Brikama
+248,2020-03,New Prosthesis,50-64,M,Brikama
+249,2020-03,Repair Prosthesis,25-49,F,Brikama
+250,2020-04,New Prosthesis,25-49,F,Basse
+251,2020-05,Repair Prosthesis,50-64,F,Brikama
+252,2020-05,Repair Prosthesis,25-49,F,Brikama
+253,2020-05,Prosthesis Review/Assessment,5-14,F,Brikama
+254,2020-05,Repair Prosthesis,25-49,M,Brikama
+255,2020-05,Repair Prosthesis,25-49,M,Kanifing
+256,2020-05,Repair Prosthesis,Not Known,F,Kanifing
+257,2020-05,Repair Prosthesis,5-14,M,Brikama
+258,2020-05,Prosthesis Adjustment,25-49,M,Brikama
+259,2020-05,Repair Prosthesis,14-24,M,Kanifing
+260,2020-05,Repair Prosthesis,14-24,M,Kanifing
+261,2020-05,Repair Prosthesis,25-49,M,Brikama
+262,2020-06,Repair Prosthesis,25-49,M,Brikama
+263,2020-06,New Prosthesis,25-49,M,Brikama
+264,2020-06,Repair Prosthesis,25-49,F,Brikama
+265,2020-06,Repair Prosthesis,50-64,M,Brikama
+266,2020-06,Repair Prosthesis,50-64,M,Brikama
+267,2020-07,Repair Prosthesis,25-49,F,Kanifing
+268,2020-07,Repair Prosthesis,65+,M,Brikama
+269,2020-07,Repair Prosthesis,Not Known,F,Brikama
+270,2020-07,Repair Prosthesis,25-49,M,Basse
+271,2020-07,Repair Prosthesis,65+,F,Kerewan
+272,2020-07,New Prosthesis,50-64,F,Brikama
+273,2020-07,Repair Prosthesis,Not Known,M,Brikama
+274,2020-07,Repair Prosthesis,50-64,F,Banjul
+275,2020-07,Repair Prosthesis,5-14,M,Brikama
+276,2020-07,Repair Prosthesis,25-49,M,Brikama
+277,2020-07,Repair Prosthesis,25-49,M,Kerewan
+278,2020-07,Repair Prosthesis,Not Known,F,Brikama
+279,2020-07,New Prosthesis,50-64,M,Kanifing
+280,2020-07,New Prosthesis,50-64,F,Brikama
+281,2020-07,Repair Prosthesis,25-49,M,Kanifing
+282,2020-08,New Prosthesis,65+,M,Brikama
+283,2020-08,Repair Prosthesis,25-49,M,Kerewan
+284,2020-08,Repair Prosthesis,50-64,M,Brikama
+285,2020-08,Repair Prosthesis,25-49,M,Brikama
+286,2020-08,Repair Prosthesis,65+,M,Janjanbureh
+287,2020-08,Repair Prosthesis,65+,F,Kerewan
+288,2020-08,New Prosthesis,25-49,M,Kanifing
+289,2020-08,New Prosthesis,Not Known,M,Brikama
+290,2020-08,New Prosthesis,25-49,F,Kanifing
+291,2020-08,Repair Prosthesis,65+,F,Kanifing
+292,2020-09,Repair Prosthesis,Not Known,M,Brikama
+293,2020-09,Repair Prosthesis,65+,M,Mansakonko
+294,2020-09,New Prosthesis,25-49,M,Brikama
+295,2020-09,New Prosthesis,25-49,M,Brikama
+296,2020-09,Prosthesis Review/Assessment,50-64,F,Kanifing
+297,2020-10,Repair Prosthesis,50-64,M,Basse
+298,2020-10,Repair Prosthesis,50-64,M,Brikama
+299,2020-10,Repair Prosthesis,25-49,M,Mansakonko
+300,2020-10,Repair Prosthesis,5-14,M,Brikama
+301,2020-10,Repair Prosthesis,25-49,M,Brikama
+302,2020-10,Repair Prosthesis,14-24,M,Kerewan
+303,2020-10,Repair Prosthesis,25-49,M,Basse
+304,2020-10,Repair Prosthesis,Not Known,M,Banjul
+305,2020-10,Work Cancelled,65+,M,Brikama
+306,2020-10,Repair Prosthesis,14-24,M,Brikama
+307,2020-10,Prosthesis Review/Assessment,25-49,F,Brikama
+308,2020-10,Repair Prosthesis,25-49,M,Brikama
+309,2020-10,Repair Prosthesis,14-24,M,Brikama
+310,2020-10,New Prosthesis,25-49,F,Brikama
+311,2020-10,Repair Prosthesis,25-49,M,Brikama
+312,2020-10,Repair Prosthesis,25-49,M,Kanifing
+313,2020-10,Prosthesis Review/Assessment,Not Known,F,Brikama
+314,2020-10,New Prosthesis,50-64,M,Brikama
+315,2020-10,New Prosthesis,Not Known,F,Brikama
+316,2020-11,New Prosthesis,25-49,M,Not Known
+317,2020-11,Repair Prosthesis,25-49,F,Brikama
+318,2020-11,New Prosthesis,65+,F,Mansakonko
+319,2020-11,New Prosthesis,50-64,M,Basse
+320,2020-11,New Prosthesis,14-24,M,Brikama
+321,2020-11,New Prosthesis,50-64,M,Brikama
+322,2020-11,New Prosthesis,50-64,M,Kanifing
+323,2020-11,New Prosthesis,50-64,M,Kanifing
+324,2020-11,New Prosthesis,14-24,F,Brikama
+325,2020-11,New Prosthesis,65+,M,Kanifing
+326,2020-11,New Prosthesis,25-49,M,Brikama
+327,2020-12,New Prosthesis,65+,M,Mansakonko
+328,2020-12,New Prosthesis,50-64,M,Brikama
+329,2020-12,New Prosthesis,65+,F,Kanifing
+330,2020-12,New Prosthesis,Not Known,F,Kerewan
+331,2020-12,Repair Prosthesis,25-49,M,Brikama
+332,2020-12,New Prosthesis,65+,M,Brikama
+333,2021-01,New Prosthesis,25-49,F,Kanifing
+334,2021-01,Repair Prosthesis,Not Known,M,Brikama
+335,2021-01,Repair Prosthesis,14-24,M,Kerewan
+336,2021-01,New Prosthesis,25-49,M,Not Known
+337,2021-01,New Prosthesis,25-49,M,Not Known
+338,2021-01,Repair Prosthesis,14-24,M,Kerewan
+339,2021-01,Repair Prosthesis,50-64,M,Basse
+340,2021-01,New Prosthesis,50-64,M,Brikama
+341,2021-01,Repair Prosthesis,25-49,M,Not Known
+342,2021-03,Review,50-64,M,Janjanbureh
+343,2021-03,Repair Prosthesis,65+,F,Brikama
+344,2021-03,Repair Prosthesis,50-64,M,South Senegal
+345,2021-03,Repair Prosthesis,50-64,M,Brikama
+346,2021-03,Repair Prosthesis,Not Known,F,Not Known
+347,2021-04,Prosthesis Adjustment,14-24,M,Brikama
+348,2021-04,Prosthesis Review/Assessment,5-14,M,Kanifing
+349,2021-04,Repair Prosthesis,65+,F,Brikama
+350,2021-04,Repair Prosthesis,65+,M,Brikama
+351,2021-04,Repair Prosthesis,5-14,F,Other
+352,2021-04,Repair Prosthesis,Not Known,F,Brikama
+353,2021-04,Repair Prosthesis,25-49,F,Brikama
+354,2021-04,Repair Prosthesis,50-64,M,Kanifing
+355,2021-05,New Prosthesis,Not Known,M,Brikama
+356,2021-06,Repair Prosthesis,14-24,M,Brikama
+357,2021-06,Repair Prosthesis,14-24,M,Brikama
+358,2021-06,Repair Prosthesis,50-64,F,Kanifing
+359,2021-06,Repair Prosthesis,50-64,F,Brikama
+360,2021-06,Repair Prosthesis,25-49,M,Brikama
+361,2021-06,New Prosthesis,50-64,F,Brikama
+362,2021-06,Repair Prosthesis,25-49,M,Brikama
+363,2021-07,Repair Prosthesis,25-49,M,Brikama
+364,2021-07,Repair Prosthesis,14-24,F,Brikama
+365,2021-07,New Prosthesis,Not Known,M,Brikama
+366,2021-07,New Prosthesis,25-49,M,Janjanbureh
+367,2021-07,Prosthesis Adjustment,25-49,M,Kanifing
+368,2021-07,New Prosthesis,65+,F,Brikama
+369,2021-07,New Prosthesis,Not Known,M,Janjanbureh
+370,2021-07,Repair Prosthesis,50-64,M,Mansakonko
+371,2021-08,Repair Prosthesis,65+,M,Brikama
+372,2021-08,Repair Prosthesis,25-49,M,Not Known
+373,2021-09,Repair Prosthesis,65+,M,Kerewan
+374,2021-09,Repair Prosthesis,25-49,M,Brikama
+375,2021-09,Repair Prosthesis,Not Known,M,Brikama
+376,2021-09,Prosthesis Adjustment,50-64,F,Brikama
+377,2021-09,Repair Prosthesis,65+,F,Kanifing
+378,2021-09,New Prosthesis,65+,M,Not Known
+379,2021-09,New Prosthesis,Not Known,F,Kerewan
+380,2021-09,Repair Prosthesis,Not Known,F,Brikama
+381,2021-09,Repair Prosthesis,25-49,M,Brikama
+382,2021-09,New Prosthesis,Not Known,F,Mansakonko
+383,2021-09,New Prosthesis,50-64,M,Brikama
+384,2021-09,Repair Prosthesis,Not Known,M,Brikama
+385,2021-09,New Prosthesis,25-49,M,Brikama
+386,2021-09,Repair Prosthesis,25-49,F,Brikama
+387,2021-09,Repair Prosthesis,65+,M,Brikama
+388,2021-09,New Prosthesis,25-49,F,Kanifing
+389,2021-09,New Prosthesis,50-64,M,Mansakonko
+390,2021-09,Repair Prosthesis,25-49,M,Brikama
+391,2021-09,New Prosthesis,25-49,F,Kanifing
+392,2021-09,Repair Prosthesis,Not Known,F,Brikama
+393,2021-09,Repair Prosthesis,14-24,M,Brikama
+394,2021-10,Repair Prosthesis,25-49,M,Kanifing
+395,2021-10,New Prosthesis,25-49,M,Brikama
+396,2021-10,Repair Prosthesis,50-64,F,Brikama
+397,2021-10,Repair Prosthesis,Not Known,F,Brikama
+398,2021-10,New Prosthesis,Not Known,F,Janjanbureh
+399,2021-10,Repair Prosthesis,14-24,F,Brikama
+400,2021-10,Repair Prosthesis,50-64,M,Brikama
+401,2021-10,Repair Prosthesis,65+,F,Brikama
+402,2021-10,New Prosthesis,65+,F,Brikama
+403,2021-10,New Prosthesis,50-64,M,Brikama
+404,2021-10,Repair Prosthesis,25-49,M,Brikama
+405,2021-10,Repair Prosthesis,25-49,M,Not Known
+406,2021-10,Repair Prosthesis,50-64,M,Not Known
+407,2021-10,New Prosthesis,Not Known,F,Kanifing
+408,2021-10,New Prosthesis,Not Known,F,Not Known
+409,2021-10,Repair Prosthesis,25-49,F,Kanifing
+410,2021-11,New Prosthesis,25-49,M,Not Known
+411,2021-11,Repair Prosthesis,50-64,M,Brikama
+412,2021-11,Repair Prosthesis,5-14,F,Brikama
+413,2021-11,Repair Prosthesis,25-49,M,Brikama
+414,2021-11,New Prosthesis,14-24,M,Kanifing
+415,2021-11,Repair Prosthesis,50-64,M,Janjanbureh
+416,2021-11,New Prosthesis,50-64,F,Kanifing
+417,2021-11,Repair Prosthesis,Not Known,F,Brikama
+418,2021-12,New Prosthesis,Not Known,M,Brikama
+419,2021-12,New Prosthesis,25-49,F,Brikama
+420,2021-12,New Prosthesis,50-64,F,Brikama
+421,2021-12,Repair Prosthesis,Not Known,M,Kanifing
+422,2021-12,New Prosthesis,65+,M,Brikama
+423,2021-12,New Prosthesis,50-64,F,Brikama
+424,2021-12,Repair Prosthesis,25-49,M,Brikama
+425,2021-12,New Prosthesis,25-49,F,Brikama
+426,2022-01,Repair Prosthesis,50-64,M,Brikama
+427,2022-01,Repair Prosthesis,50-64,M,Kanifing
+428,2022-06,New Prosthesis,25-49,M,Brikama
+429,2020-09,New Prosthesis,50-64,M,Brikama
+430,2020-06,Repair Prosthesis,65+,F,Brikama
+431,2020-06,Repair Prosthesis,Not Known,F,Brikama
+432,2020-05,Repair Prosthesis,25-49,M,Janjanbureh
+433,2020-05,Repair Prosthesis,25-49,M,Brikama
+434,2020-05,New Prosthesis,25-49,M,Kanifing
+435,2019-10,Repair Prosthesis,50-64,F,Brikama
+436,2019-10,New Prosthesis,65+,M,Kerewan
+437,2019-10,New Prosthesis,50-64,M,Brikama
+438,2020-09,Repair Prosthesis,25-49,M,Kerewan
+439,2019-10,New Prosthesis,Under 5,F,Brikama
+440,2019-12,New Prosthesis,65+,F,Brikama
+441,2019-12,New Prosthesis,25-49,M,Kanifing
+442,2020-11,New Prosthesis,50-64,M,Brikama
+443,2020-06,Repair Prosthesis,25-49,M,Brikama
